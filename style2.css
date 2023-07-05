@@ -1,0 +1,38 @@
+
+*{
+  margin: 5px;
+  padding: 2px;
+}
+h1{
+  text-align: center;
+  color: cadetblue;
+  font-weight: bolder;
+}
+h2{
+  color: cadetblue;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 5px;
+    padding: 2px;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
+  legend{
+    font-family:cursive;
+    font-size: 25px;
+    font-weight: 20px;
+    color: rgb(67, 3, 54);
+  }
+  input[type="text"]{
+    background-color: rgba(15, 159, 184, 0.605);
+    border-color: rgb(27, 216, 153);
+  }
+ button:hover{background-color: cornflowerblue;
+ }
+ .email{border-color: blue;
+
+ }
